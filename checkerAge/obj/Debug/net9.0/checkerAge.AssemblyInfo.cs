@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("checkerAge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eac1273c2b03fec092e3cd72ae0d41b7958a62e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8508ed68de13b387480a358a76245975f4bbf17")]
 [assembly: System.Reflection.AssemblyProductAttribute("checkerAge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("checkerAge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

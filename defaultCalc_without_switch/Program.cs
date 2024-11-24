@@ -101,7 +101,7 @@ class Programm{
                 }
 
                 else if(mathSymbol == "%"){
-                    Answer = secondNumber % firstNumber;
+                    Answer = firstNumber % secondNumber;
                     Console.WriteLine($"Результат: Answer");
                     Console.Write("Будем ещё считать? ");
                     secChoice = Console.ReadLine();

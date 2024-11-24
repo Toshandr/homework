@@ -8,7 +8,7 @@ namespace checkerAge;
             while (true){
                 Console.Write("Введите ваш возраст: ");
                 int age = Convert.ToInt32(Console.ReadLine());
-                if (age > 110 || age < 0){
+                if (age > 110 || age <= 0){
                     Console.WriteLine("Введите корректные данные.");
                     Console.WriteLine("");
                     continue;

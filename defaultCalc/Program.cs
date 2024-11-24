@@ -38,7 +38,7 @@ class Programm{
                 switch (mathSymbol){
                     case "+":
                         Answer = firstNumber + secondNumber;
-                        Console.WriteLine("Результат:", Answer);
+                        Console.WriteLine($"Результат: {Answer}");
                         Console.Write("Будем ещё считать? ");
                         secChoice = Console.ReadLine();
                         if (secChoice == "Да" || secChoice == "да" || secChoice == "ДА"){
@@ -55,7 +55,7 @@ class Programm{
                         break;
                     case "-":
                         Answer = firstNumber - secondNumber;
-                        Console.WriteLine("Результат:", Answer);
+                        Console.WriteLine($"Результат: {Answer}");
                         Console.Write("Будем ещё считать? ");
                         secChoice = Console.ReadLine();
                         if (secChoice == "Да" || secChoice == "да" || secChoice == "ДА"){
@@ -72,7 +72,7 @@ class Programm{
                         break;
                     case "*":
                         Answer = firstNumber * secondNumber;
-                        Console.WriteLine("Результат:", Answer);
+                        Console.WriteLine($"Результат: {Answer}");
                         Console.Write("Будем ещё считать? ");
                         secChoice = Console.ReadLine();
                         if (secChoice == "Да" || secChoice == "да" || secChoice == "ДА"){
@@ -89,7 +89,7 @@ class Programm{
                         break;
                     case "/":
                         Answer = firstNumber / secondNumber;
-                        Console.WriteLine("Результат:", Answer);
+                        Console.WriteLine($"Результат: {Answer}");
                         Console.Write("Будем ещё считать? ");
                         secChoice = Console.ReadLine();
                         if (secChoice == "Да" || secChoice == "да" || secChoice == "ДА"){
@@ -106,7 +106,7 @@ class Programm{
                         break;
                     case "%":
                         Answer = firstNumber % secondNumber;
-                        Console.WriteLine("Результат:", Answer);
+                        Console.WriteLine($"Результат: {Answer}");
                         Console.Write("Будем ещё считать? ");
                         secChoice = Console.ReadLine();
                         if (secChoice == "Да" || secChoice == "да" || secChoice == "ДА"){

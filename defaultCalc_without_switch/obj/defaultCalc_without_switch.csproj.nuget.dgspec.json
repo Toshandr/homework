@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc\\defaultCalc.csproj": {}
+    "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc_without_switch\\defaultCalc_without_switch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc\\defaultCalc.csproj": {
+    "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc_without_switch\\defaultCalc_without_switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc\\defaultCalc.csproj",
-        "projectName": "defaultCalc",
-        "projectPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc\\defaultCalc.csproj",
+        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc_without_switch\\defaultCalc_without_switch.csproj",
+        "projectName": "defaultCalc_without_switch",
+        "projectPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc_without_switch\\defaultCalc_without_switch.csproj",
         "packagesPath": "C:\\Users\\MSI ThinGF63\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc\\obj\\",
+        "outputPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\defaultCalc_without_switch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI ThinGF63\\AppData\\Roaming\\NuGet\\NuGet.Config"

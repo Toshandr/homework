@@ -1,0 +1,15 @@
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\defaultCalc_without_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\defaultCalc_without_switch.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\defaultCalc_without_switch.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\defaultCalc_without_switch.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\defaultCalc_without_switch.sourcelink.json
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\bin\Debug\net9.0\defaultCalc_without_switch.exe
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\bin\Debug\net9.0\defaultCalc_without_switch.deps.json
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\bin\Debug\net9.0\defaultCalc_without_switch.runtimeconfig.json
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\bin\Debug\net9.0\defaultCalc_without_switch.dll
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\bin\Debug\net9.0\defaultCalc_without_switch.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\defaultCalc_without_switch.dll
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\refint\defaultCalc_without_switch.dll
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\defaultCalc_without_switch.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\defaultCalc_without_switch.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc_without_switch\obj\Debug\net9.0\ref\defaultCalc_without_switch.dll

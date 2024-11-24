@@ -12,3 +12,4 @@ C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc\obj\Debug\net9.0\refint\defau
 C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc\obj\Debug\net9.0\defaultCalc.pdb
 C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc\obj\Debug\net9.0\defaultCalc.genruntimeconfig.cache
 C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc\obj\Debug\net9.0\ref\defaultCalc.dll
+C:\Users\MSI ThinGF63\Desktop\homework\defaultCalc\obj\Debug\net9.0\defaultCalc.sourcelink.json

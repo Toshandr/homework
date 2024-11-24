@@ -19,6 +19,7 @@ namespace checkerAge;
                 else{
                     Console.WriteLine("Доступ не разрешён. Вы не прошли проверку возраста, зайти на сайт можно только" + 
                     $"через {18 - age}.");
+                    Console.WriteLine("");
                     break;
                 }
             }

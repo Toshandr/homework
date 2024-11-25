@@ -1,0 +1,15 @@
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\randNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\randNumber.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\randNumber.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\randNumber.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\randNumber.sourcelink.json
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\bin\Debug\net9.0\randNumber.exe
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\bin\Debug\net9.0\randNumber.deps.json
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\bin\Debug\net9.0\randNumber.runtimeconfig.json
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\bin\Debug\net9.0\randNumber.dll
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\bin\Debug\net9.0\randNumber.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\randNumber.dll
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\refint\randNumber.dll
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\randNumber.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\randNumber.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\Desktop\homework\randNumber\obj\Debug\net9.0\ref\randNumber.dll

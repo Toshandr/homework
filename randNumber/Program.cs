@@ -5,7 +5,8 @@ namespace randNumber;
 
 class Programm{
     static void Main(string[] args){
-        int randomNumber = 43;
+        Random r = new Random();
+        int randomNumber = r.Next(0, 101);
         Console.WriteLine("");
         Console.WriteLine("Здравствуй, я сотрудник магазина DNS");
         Console.WriteLine("У меня есть купон на скидку на несколько пар наушников. Но нужно угадать какая в нём скидка!");
@@ -41,7 +42,7 @@ class Programm{
         }
          if (answerBegin == 2 || answerBegin != 1){
             Console.WriteLine("Не задерживай очередь, чувак");
-            Console.ReadLine("");
+            Console.ReadLine();
         }
     }
 }

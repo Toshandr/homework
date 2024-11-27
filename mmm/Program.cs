@@ -18,7 +18,7 @@ class Programm{
 
         Console.WriteLine("\nВаш шопинг лист:");
         while(k <= shoppingList.Length){
-            Console.WriteLine($"{k}. " + shoppingList[k-1]);
+            Console.WriteLine($"{k}. {shoppingList[k-1]}");
             k++;
         }
     }

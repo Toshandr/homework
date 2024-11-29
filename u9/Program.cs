@@ -2,16 +2,15 @@
 
 class Program
 {
-    int[] spisok = {1,-2,3,-4,5,-6,-7};
-    foreach (int i in spisok){
-        if (i<0){
-            spisok[i] = 0;
+    static void Main(string[] args){
+        int[] spisok = {1,-2,-3,4,5,-6,-7};
+        for(int i = 0; i < spisok.Length; i++){
+            if (spisok[i] < 0){
+                spisok[i] = 0;
+            }
+        }
+        foreach(int i in spisok){
+            Console.WriteLine(i);
         }
     }
-    foreach (int i in spisok)
-    {
-        Console.WriteLine(i);
-    }
-
-
 }

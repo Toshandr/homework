@@ -3,3 +3,13 @@ C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.AssemblyInfoInputs
 C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.AssemblyInfo.cs
 C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.csproj.CoreCompileInputs.cache
 C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.sourcelink.json
+C:\Users\MSI ThinGF63\Desktop\homework\u9\bin\Debug\net9.0\u9.exe
+C:\Users\MSI ThinGF63\Desktop\homework\u9\bin\Debug\net9.0\u9.deps.json
+C:\Users\MSI ThinGF63\Desktop\homework\u9\bin\Debug\net9.0\u9.runtimeconfig.json
+C:\Users\MSI ThinGF63\Desktop\homework\u9\bin\Debug\net9.0\u9.dll
+C:\Users\MSI ThinGF63\Desktop\homework\u9\bin\Debug\net9.0\u9.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.dll
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\refint\u9.dll
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\ref\u9.dll

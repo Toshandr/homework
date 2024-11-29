@@ -1,0 +1,5 @@
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\u9\obj\Debug\net9.0\u9.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\MSI ThinGF63\Desktop\homework\u4\bin\Debug\net9.0\u4.exe
+C:\Users\MSI ThinGF63\Desktop\homework\u4\bin\Debug\net9.0\u4.deps.json
+C:\Users\MSI ThinGF63\Desktop\homework\u4\bin\Debug\net9.0\u4.runtimeconfig.json
+C:\Users\MSI ThinGF63\Desktop\homework\u4\bin\Debug\net9.0\u4.dll
+C:\Users\MSI ThinGF63\Desktop\homework\u4\bin\Debug\net9.0\u4.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\u4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\u4.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\u4.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\u4.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\u4.sourcelink.json
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\u4.dll
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\refint\u4.dll
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\u4.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\u4.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\Desktop\homework\u4\obj\Debug\net9.0\ref\u4.dll

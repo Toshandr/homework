@@ -1,0 +1,15 @@
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\bin\Debug\net9.0\exc 1.exe
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\bin\Debug\net9.0\exc 1.deps.json
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\bin\Debug\net9.0\exc 1.runtimeconfig.json
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\bin\Debug\net9.0\exc 1.dll
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\bin\Debug\net9.0\exc 1.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\exc 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\exc 1.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\exc 1.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\exc 1.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\exc 1.sourcelink.json
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\exc 1.dll
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\refint\exc 1.dll
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\exc 1.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\exc 1.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc 1\obj\Debug\net9.0\ref\exc 1.dll

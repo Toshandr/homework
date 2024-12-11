@@ -1,0 +1,15 @@
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\bin\Debug\net9.0\massives.exe
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\bin\Debug\net9.0\massives.deps.json
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\bin\Debug\net9.0\massives.runtimeconfig.json
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\bin\Debug\net9.0\massives.dll
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\bin\Debug\net9.0\massives.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\massives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\massives.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\massives.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\massives.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\massives.sourcelink.json
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\massives.dll
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\refint\massives.dll
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\massives.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\massives.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\Desktop\homework\tests\massives\obj\Debug\net9.0\ref\massives.dll

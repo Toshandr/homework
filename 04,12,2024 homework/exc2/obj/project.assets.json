@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\04,11,2024 homework\\exc2\\exc2.csproj",
+      "projectUniqueName": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\04,12,2024 homework\\exc2\\exc2.csproj",
       "projectName": "exc2",
-      "projectPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\04,11,2024 homework\\exc2\\exc2.csproj",
+      "projectPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\04,12,2024 homework\\exc2\\exc2.csproj",
       "packagesPath": "C:\\Users\\MSI ThinGF63\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\04,11,2024 homework\\exc2\\obj\\",
+      "outputPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\04,12,2024 homework\\exc2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI ThinGF63\\AppData\\Roaming\\NuGet\\NuGet.Config"

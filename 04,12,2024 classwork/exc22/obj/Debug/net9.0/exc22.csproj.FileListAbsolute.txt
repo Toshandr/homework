@@ -1,0 +1,15 @@
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\exc22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\exc22.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\exc22.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\exc22.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\exc22.sourcelink.json
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\bin\Debug\net9.0\exc22.exe
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\bin\Debug\net9.0\exc22.deps.json
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\bin\Debug\net9.0\exc22.runtimeconfig.json
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\bin\Debug\net9.0\exc22.dll
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\bin\Debug\net9.0\exc22.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\exc22.dll
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\refint\exc22.dll
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\exc22.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\exc22.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\Desktop\homework\04,12,2024 classwork\exc22\obj\Debug\net9.0\ref\exc22.dll

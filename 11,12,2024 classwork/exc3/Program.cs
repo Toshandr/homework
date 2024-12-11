@@ -10,6 +10,6 @@ class Program
 
     static string reverseStr(string a){
         if(a.Length <= 0) return "";
-        return a[a.Length - 1] + reverseStr(a, a.Length - 1); //да я чёт вообще не врубаю рекурсию со строками
+        return reverseStr(a.Substring(1)) + a[0] ; //да я чёт вообще не врубаю рекурсию со строками
     }
 }

@@ -44,7 +44,7 @@ public class Employees
         }
     }
     
-    public void AddEmployee(Employee employee)
+    public void AddEmployee(string input_name, string strID,string input_dep,stringa input_pos)
     {
        
     }
@@ -63,7 +63,8 @@ public class Employees
 public class Program
 {   
     public static void Main()
-    {    
+    {
+        Random rnd = new Random();    
         Employee employee1 = new Employee("Сьюзан Майерс","47899","Бухгалтерия","Вице-президент");
         Employee employee2 = new Employee("Боб","12345","Офис","Работник");
         Employee employee3 = new Employee("Джон","54321","Охрана","Охранник");
@@ -89,8 +90,23 @@ public class Program
                     emploeesList.FindEmployeeById(input_id);
                     break;
                 case "2":
+		    Console.Write("Имя нового сотрудника: ");
+		    var input_name = Console.ReadLine();
+		    var input_ID = rnd.Next();
+		    string strID = input_ID.ToString();
+		    foreach(int i in employees.id){
+		        while(strID == i){
+			    input_ID = rnd.Next();
+			    strID = input_ID.ToString();
+			} 
+
+		    }
+		    Console.WriteLine("Новому сотруднику присвоен ID: " + strID);
+                    Console.Write("Место работы нового сотрудника: ");
                     var input_dep = Console.ReadLine();
+		    Console.Write("Должность нового сотрудника: ")
                     var input_pos = Console.ReadLine();
+		    emploeesList.AddEmployee(input_name, strID, input_dep, input_pos);
 
                     break;
                 case "3":

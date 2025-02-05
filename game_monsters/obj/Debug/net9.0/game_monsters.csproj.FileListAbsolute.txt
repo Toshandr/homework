@@ -1,0 +1,15 @@
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\game_monsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\game_monsters.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\game_monsters.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\game_monsters.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\game_monsters.sourcelink.json
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\bin\Debug\net9.0\game_monsters.exe
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\bin\Debug\net9.0\game_monsters.deps.json
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\bin\Debug\net9.0\game_monsters.runtimeconfig.json
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\bin\Debug\net9.0\game_monsters.dll
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\bin\Debug\net9.0\game_monsters.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\game_monsters.dll
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\refint\game_monsters.dll
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\game_monsters.pdb
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\game_monsters.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\Desktop\homework\game_monsters\obj\Debug\net9.0\ref\game_monsters.dll

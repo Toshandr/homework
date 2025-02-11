@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\29,11,2024\\u6\\u6.csproj": {}
+    "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\29,11,2024\\u6\\u6.csproj": {
+    "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\29,11,2024\\u6\\u6.csproj",
+        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj",
         "projectName": "u6",
-        "projectPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\29,11,2024\\u6\\u6.csproj",
+        "projectPath": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj",
         "packagesPath": "C:\\Users\\MSI ThinGF63\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\29,11,2024\\u6\\obj\\",
+        "outputPath": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI ThinGF63\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

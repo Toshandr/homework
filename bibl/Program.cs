@@ -65,7 +65,7 @@ class Library{
                 Console.WriteLine("Операция вполнена");
                 Collections.Remove(it);
             }
-            if (k == Collections.Count){
+            if (k == Collections.Count && ans != it.Author){
                 Console.WriteLine("Такого объекта нет");
             }
         }
@@ -83,7 +83,7 @@ class Library{
                 Console.WriteLine("Такой объект есть");
                 Console.WriteLine(it.Author, it.Title);
             }
-            if (k == Collections.Count){
+            if (k == Collections.Count && ans != it.Author){
                 Console.WriteLine("Такого объекта нет");
             }
         }

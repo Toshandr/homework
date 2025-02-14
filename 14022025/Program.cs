@@ -69,15 +69,21 @@ class Program
         Employee empl2 = new Employee("Федя", 40000);
         Employee empl3 = new Employee("Артурчик", 15000);
 
-        List<int> SpisokZp = new List<int>{};
-        SpisokZp.Add(empl1.Zp);
-        SpisokZp.Add(empl2.Zp);
-        SpisokZp.Add(empl3.Zp);
+        List<Employee> SpisokZp = new List<Employee>{};
+        List<int> intSp = new List<int>{};
+        SpisokZp.AddRange(empl1, empl2, empl3);
+        intSp.AddRange(empl1.Zp, empl2.Zp, empl3.Zp);
 
-        SpisokZp.Sort();
-        SpisokZp.Reverse();
-        foreach(int i in SpisokZp){
-            Console.WriteLine($"зп: {i}");
+
+        intSp.Sort();
+        intSp.Reverse();
+        foreach(int i in intSp){
+            foreach(Employee j in SpisokZp){
+                if(i == j.Zp){
+                    Console.WriteLine($"{j.Name} зп: {i}");
+                }
+            }
+            
         }
         
 

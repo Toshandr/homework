@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\tests\\massives\\massives.csproj": {}
+    "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\tests\\massives\\massives.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\tests\\massives\\massives.csproj": {
+    "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\tests\\massives\\massives.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\tests\\massives\\massives.csproj",
+        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\tests\\massives\\massives.csproj",
         "projectName": "massives",
-        "projectPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\tests\\massives\\massives.csproj",
+        "projectPath": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\tests\\massives\\massives.csproj",
         "packagesPath": "C:\\Users\\MSI ThinGF63\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI ThinGF63\\Desktop\\homework\\tests\\massives\\obj\\",
+        "outputPath": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\tests\\massives\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI ThinGF63\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -36,9 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

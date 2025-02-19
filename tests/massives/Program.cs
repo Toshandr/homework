@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        /*
         int[,] mass = new int[5, 4];
         Random rand = new Random();
 
@@ -13,7 +14,12 @@ class Program
                 mass[i,j] = number;
                 Console.Write(mass[i,j] + " ");
             }
-            Console.WriteLine(" ");
-        }
+            Console.WriteLine(" "); */
+        double n = 3.5;
+        n = (int)n;
+        Console.Write(n);
+
+
     }
 }
+

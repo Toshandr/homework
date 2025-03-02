@@ -1,0 +1,15 @@
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\bin\Debug\net9.0\21022025.exe
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\bin\Debug\net9.0\21022025.deps.json
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\bin\Debug\net9.0\21022025.runtimeconfig.json
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\bin\Debug\net9.0\21022025.dll
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\bin\Debug\net9.0\21022025.pdb
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\21022025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\21022025.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\21022025.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\21022025.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\21022025.sourcelink.json
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\21022025.dll
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\refint\21022025.dll
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\21022025.pdb
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\21022025.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\RiderProjects\homeworkk\21022025\obj\Debug\net9.0\ref\21022025.dll

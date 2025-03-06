@@ -20,7 +20,7 @@ class Program
         People people3 = new People("Fedya", 14);
         People people4 = new People("Kolya", 0);
         List<People> spisok = new List<People>{people1,people2,people3,people4, peplenew};
-        var newList = spisok.GroupBy(n => n.Age).Select(n => $"Age {n.Key}: {string.Join(", " , n.Select(j => j.Name))}");
+        var newList = spisok.GroupBy(n => n.Age).Select(n => $"{n.Key} лет: {string.Join(", " , n.Select(j => j.Name))}");
         Console.WriteLine(string.Join("\n", newList));
         
     }

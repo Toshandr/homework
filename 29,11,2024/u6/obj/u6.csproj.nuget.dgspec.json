@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj": {}
+    "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj": {
+    "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj",
+        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj",
         "projectName": "u6",
-        "projectPath": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj",
+        "projectPath": "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\u6\\u6.csproj",
         "packagesPath": "C:\\Users\\MSI ThinGF63\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\u6\\obj\\",
+        "outputPath": "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\u6\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MSI ThinGF63\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MSI ThinGF63\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

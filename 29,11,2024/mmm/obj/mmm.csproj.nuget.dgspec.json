@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\mmm.csproj": {}
+    "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\mmm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\mmm.csproj": {
+    "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\mmm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\mmm.csproj",
+        "projectUniqueName": "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\mmm.csproj",
         "projectName": "mmm",
-        "projectPath": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\mmm.csproj",
+        "projectPath": "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\mmm.csproj",
         "packagesPath": "C:\\Users\\MSI ThinGF63\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI ThinGF63\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\obj\\",
+        "outputPath": "C:\\Users\\MSI ThinGF63\\Desktop\\RiderProjects\\homeworkk\\29,11,2024\\mmm\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MSI ThinGF63\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MSI ThinGF63\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
